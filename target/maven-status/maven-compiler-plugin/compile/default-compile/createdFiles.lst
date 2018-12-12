@@ -1,0 +1,7 @@
+com\gathi\mdm\federation\Federation.class
+com\gathi\mdm\federation\QueryUtils.class
+com\gathi\mdm\federation\FederationLogger.class
+com\gathi\mdm\federation\FederationConfigs.class
+com\gathi\mdm\federation\SparkUtils.class
+com\gathi\mdm\federation\DataFrameUtils.class
+com\gathi\mdm\federation\Preprocessor.class
